@@ -2,7 +2,7 @@
 
 This is my Level 2 NCEA project for Digital Technologies
 
-![Example Image](images/example.jpg)
+![alt text](images/readMeImage.png)
 
 It is a database-connected website that allows users to:
 

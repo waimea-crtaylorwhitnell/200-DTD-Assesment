@@ -19,11 +19,14 @@ Today I worked on the general flowchart of the website. I sent a screenshot of t
 
 The flowchart shows how users will "flow" through the website, this will show me how to program the website in a way that is intuitive and has no pages that the user might get stuck on.
 
-## DATE HERE
+## 23/05/2024
 
-Replace this text with what you are working on
+Today I updated the flowchart, as Ben thought that some part didn't quite make sense, specifically the "back" button.
 
-Replace this text with brief notes describing what you worked on, any decisions you made, any changes to designs, etc. Add screenshots / links to other media to illustrate your notes where necessary.
+![Flowchart v2](images/flowchartV2.png)
+
+All I did was remove the "back" button from the Login details page and changed the button from "back" to "cancel" on the New login details form page.
+
 ## DATE HERE
 
 Replace this text with what you are working on
