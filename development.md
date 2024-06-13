@@ -27,20 +27,26 @@ Today I updated the flowchart, as Ben thought that some part didn't quite make s
 
 All I did was remove the "back" button from the Login details page and changed the button from "back" to "cancel" on the New login details form page.
 
-## DATE HERE
+## 30/05/2024
 
-Replace this text with what you are working on
+Finished the wireframe layout for the website, will get it sent to Ben before the end of the day.
 
-Replace this text with brief notes describing what you worked on, any decisions you made, any changes to designs, etc. Add screenshots / links to other media to illustrate your notes where necessary.
+![Wireframe V1](images/wireframeV1.png)
 
-## DATE HERE
+I used Figma to make the wireframe layout that I intend to make the website look like.
 
-Replace this text with what you are working on
+## 11/06/2024
 
-Replace this text with brief notes describing what you worked on, any decisions you made, any changes to designs, etc. Add screenshots / links to other media to illustrate your notes where necessary.
+I have made the database plan for the website, I will check it with Ben.
 
-## DATE HERE
+![Database V1](images/databaseV1.png)
 
-Replace this text with what you are working on
+I used Draw SQL to make the database plan that I intend to ue for the website to store all of the data needed
 
-Replace this text with brief notes describing what you worked on, any decisions you made, any changes to designs, etc. Add screenshots / links to other media to illustrate your notes where necessary.
+## 13/06/2024
+
+I have made a basic colour scheme that I plan to implement into the website, I will check with Ben to confirm that these were the colours that he wanted.
+
+![Wireframe V2](images/wireframeV2.png)
+
+I used RealTime Colours to make a colour scheme, and then use a plug-in to connect it with Figma and assign the different colours to their respectively.
