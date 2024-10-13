@@ -14,6 +14,6 @@ It is a database-connected website that allows users to:
 
 The following documents support this project:
 
-- [Design & Review](docs/Design.md)
-- [Development & Testing](docs/Development.md)
+- [Design & Review](docs/design.md)
+- [Development & Testing](docs/development.md)
 
